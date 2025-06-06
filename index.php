@@ -1285,10 +1285,10 @@
 					<div class="bee-block bee-block-1 bee-menu">
 						<nav class="bee-menu">
 							<ul class="bee-horizontal">
-								<li><a href="www.example.com" target="_self" title="Shop">Shop</a></li>
-								<li><a href="www.example.com" target="_self" title="About Us">About Us</a></li>
-								<li><a href="www.example.com" target="_self" title="Blog">Blog</a></li>
-								<li><a href="www.example.com" target="_self" title="Contact">Contact</a></li>
+								<li><a href="https://temu.to/k/epupv8fr3to" target="_self" title="Shop">Shop</a></li>
+								<li><a href="https://temu.to/k/epupv8fr3to" target="_self" title="About Us">About Us</a></li>
+								<li><a href="https://temu.to/k/epupv8fr3to" target="_self" title="Blog">Blog</a></li>
+								<li><a href="https://temu.to/k/epupv8fr3to" target="_self" title="Contact">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -1308,7 +1308,7 @@
 					<div class="bee-block bee-block-4 bee-spacer">
 						<div class="spacer" style="height:60px;"></div>
 					</div>
-					<div class="bee-block bee-block-5 bee-button"><a class="bee-button-content" href="https://www.example.com" style="font-size: 18px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 18px; line-height: 200%; letter-spacing: 1px;">SHOP SUSTAINABLY</span></a></div>
+					<div class="bee-block bee-block-5 bee-button"><a class="bee-button-content" href="https://https://temu.to/k/epupv8fr3to" style="font-size: 18px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 18px; line-height: 200%; letter-spacing: 1px;">SHOP SUSTAINABLY</span></a></div>
 					<div class="bee-block bee-block-6 bee-spacer">
 						<div class="spacer" style="height:45px;"></div>
 					</div>
@@ -1378,7 +1378,7 @@
 		<div class="bee-row bee-row-8">
 			<div class="bee-row-content">
 				<div class="bee-col bee-col-1 bee-col-w12">
-					<div class="bee-block bee-block-1 bee-button"><a class="bee-button-content" href="https://www.example.com" style="font-size: 18px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 18px; line-height: 200%; letter-spacing: 1px;">SHOP SUSTAINABLY</span></a></div>
+					<div class="bee-block bee-block-1 bee-button"><a class="bee-button-content" href="https://https://temu.to/k/epupv8fr3to" style="font-size: 18px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 18px; line-height: 200%; letter-spacing: 1px;">SHOP SUSTAINABLY</span></a></div>
 				</div>
 			</div>
 		</div>
@@ -1603,7 +1603,7 @@
 		<div class="bee-row bee-row-26">
 			<div class="bee-row-content">
 				<div class="bee-col bee-col-1 bee-col-w12">
-					<div class="bee-block bee-block-1 bee-button"><a class="bee-button-content" href="https://www.example.com" style="font-size: 16px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 16px; line-height: 200%; letter-spacing: 1px;">EXPLORE ALL ECO-FRIENDLY OPTIONS</span></a></div>
+					<div class="bee-block bee-block-1 bee-button"><a class="bee-button-content" href="https://https://temu.to/k/epupv8fr3to" style="font-size: 16px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 16px; line-height: 200%; letter-spacing: 1px;">EXPLORE ALL ECO-FRIENDLY OPTIONS</span></a></div>
 					<div class="bee-block bee-block-2 bee-spacer bee-mobile_hide">
 						<div class="spacer" style="height:60px;"></div>
 					</div>
@@ -1619,7 +1619,7 @@
 					<div class="bee-block bee-block-2 bee-paragraph">
 						<p>Sustainability is more than a trend—it’s a lifestyle.</p>
 					</div>
-					<div class="bee-block bee-block-3 bee-button"><a class="bee-button-content" href="https://www.example.com" style="font-size: 16px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 16px; line-height: 200%; letter-spacing: 1px;"> JOIN OUR ECO-COMMUNITY</span></a></div>
+					<div class="bee-block bee-block-3 bee-button"><a class="bee-button-content" href="https://https://temu.to/k/epupv8fr3to" style="font-size: 16px; display: inline-block;" target="_blank"><span style="word-break: break-word; font-size: 16px; line-height: 200%; letter-spacing: 1px;"> JOIN OUR ECO-COMMUNITY</span></a></div>
 				</div>
 			</div>
 		</div>
@@ -1642,9 +1642,9 @@
 					<div class="bee-block bee-block-3 bee-menu">
 						<nav class="bee-menu">
 							<ul class="bee-vertical">
-								<li><a href="https://www.example.com" target="_self" title="Shop">Shop</a></li>
-								<li><a href="https://www.example.com" target="_self" title="About Us">About Us</a></li>
-								<li><a href="https://www.example.com" target="_self" title="Contact">Contact</a></li>
+								<li><a href="https://https://temu.to/k/epupv8fr3to" target="_self" title="Shop">Shop</a></li>
+								<li><a href="https://https://temu.to/k/epupv8fr3to" target="_self" title="About Us">About Us</a></li>
+								<li><a href="https://https://temu.to/k/epupv8fr3to" target="_self" title="Contact">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
