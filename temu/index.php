@@ -41,7 +41,7 @@
     <img src="https://yunbukrzhwsuclgdyczr.supabase.co/storage/v1/object/public/temu//temulogo1.png" alt="Temu Logo">
     <h1>Save Big on Hot Temu Deals – Up to 90% OFF!</h1>
     <p>Fast Shipping | Free Returns | Daily New Offers</p>
-    <a href="https://temu.to/k/epupv8fr3to" class="btn">Shop Best Deals Now</a>
+    <a href="https://temu.com" class="btn">Shop Best Deals Now</a>
   </div>
 </div>
 
@@ -58,28 +58,28 @@
     <img src="https://img.kwcdn.com/product/fancy/eeb8d054-21b6-4368-b852-c6c949918d54.jpg?imageView2/2/w/800/q/70/format/webp" alt="Smartwatch">
     <h3>Waterproof Smartwatch</h3>
     <p><strong>$19.99</strong></p>
-    <a href="https://temu.to/k/epupv8fr3to" class="btn">Shop Now</a>
+    <a href="https://temu.com" class="btn">Shop Now</a>
   </div>
   <div class="product">
     <div class="badge">-40% OFF</div>
     <img src="https://img.kwcdn.com/product/1eed512fb0/65e4dfc0-42e8-4467-857d-2744550fd557_850x850.png?imageView2/2/w/800/q/70/format/webp" alt="Earbuds">
     <h3>Bluetooth Earbuds</h3>
     <p><strong>$14.99</strong></p>
-    <a href="https://temu.to/k/epupv8fr3to" class="btn">Shop Now</a>
+    <a href="https://temu.com" class="btn">Shop Now</a>
   </div>
   <div class="product">
     <div class="badge">-35% OFF</div>
     <img src="https://img.kwcdn.com/product/open/f98db2adf03d4863a8f572c69923970d-goods.jpeg?imageView2/2/w/800/q/70/format/webp" alt="Cookware Set">
     <h3>Nonstick Cookware Set</h3>
     <p><strong>$49.99</strong></p>
-    <a href="https://temu.to/k/epupv8fr3to" class="btn">Shop Now</a>
+    <a href="https://temu.com" class="btn">Shop Now</a>
   </div>
   <div class="product">
     <div class="badge">-25% OFF</div>
     <img src="https://img.kwcdn.com/product/fancy/b19b9013-4cc7-4dee-9ecd-141b03c2751b.jpg?imageView2/2/w/800/q/70/format/webp" alt="Mini Projector">
     <h3>HD Mini Projector</h3>
     <p><strong>$59.00</strong></p>
-    <a href="https://temu.to/k/epupv8fr3to" class="btn">Shop Now</a>
+    <a href="https://temu.com" class="btn">Shop Now</a>
   </div>
 </div>
 
